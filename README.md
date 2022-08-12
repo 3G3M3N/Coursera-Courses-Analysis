@@ -9,7 +9,7 @@ Associated University Institution Companys:
 
 Google                                                40
 
--                                                     19
+Na                                                    19
 
 Google Cloud                                          17
 
@@ -77,39 +77,66 @@ Amazon Web Services                                    2
 
 ** Google have 57 course. %23.5 percent is Google's course.
 
-** "-" is like 2 company or University course, 1 course was create from 2 company. 
+** Na mean like 2 company or University course, 1 course was create from 2 company, University. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Categorys:
 
 Support and Operations                      26
+
 Data Analysis                               22
+
 Cloud Computing                             22
+
 Design and Product                          20
+
 Physics and Astronomy                       18
+
 Networking                                  14
+
 Business Essentials                         14
+
 Math and Logic                              12
+
 Computer Security and Networks              11
+
 Security                                    11
+
 Leadership and Management                    9
+
 Software Development                         9
+
 Research Methods                             9
+
 Mobile and Web Development                   6
+
 Mechanical Engineering                       5
+
 Chemistry                                    5
+
 Algorithms                                   5
--                                            4
+
+Na                                           4
+
 Learning English                             3
+
 Marketing                                    3
+
 Machine Learning                             3
+
 Music and Art                                3
+
 Economics                                    2
+
 History                                      2
+
 Personal Development                         1
+
 Probability and Statistics                   1
+
 Environmental Science and Sustainability     1
+
 Business Strategy                            1
 
 *** %10.7 percent is Support and Operations course.
@@ -124,7 +151,7 @@ Approximately 6 months to complete     25
 
 Approximately 5 months to complete     21
 
--                                      20
+Na                                      20
 
 Approximately 4 months to complete     17
 
@@ -228,11 +255,11 @@ Approx. 42 hours to complete            1
 
 Languages:
 
-English                   202
+English                     202
 
--                          20
+Na                          20
 
-Indonesian                 10
+Indonesian                  10
 
 Spanish                     4
 
@@ -252,11 +279,11 @@ Turkish                     1
 
 Levels:
 
-Beginner Level        141
+Beginner Level          141
 
--                      55
+Na                      55
 
-Intermediate Level     41
+Intermediate Level      41
 
 Advanced Level          5
 
@@ -268,9 +295,9 @@ Advanced Level          5
 
 Prices:
 
-free      216
+free        216
 
--          20
+Na          20
 
 Enroll      6
 
@@ -290,7 +317,7 @@ Ratings:
 
 4.6    40
 
--      21
+Na     21
 
 4.5     8
 
