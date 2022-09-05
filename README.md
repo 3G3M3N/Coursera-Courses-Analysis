@@ -17,61 +17,7 @@ Associated University Institution Companys:
 
 Categorys:
 
-Support and Operations                      26
-
-Data Analysis                               22
-
-Cloud Computing                             22
-
-Design and Product                          20
-
-Physics and Astronomy                       18
-
-Networking                                  14
-
-Business Essentials                         14
-
-Math and Logic                              12
-
-Computer Security and Networks              11
-
-Security                                    11
-
-Leadership and Management                    9
-
-Software Development                         9
-
-Research Methods                             9
-
-Mobile and Web Development                   6
-
-Mechanical Engineering                       5
-
-Chemistry                                    5
-
-Algorithms                                   5
-
-Na                                           4
-
-Learning English                             3
-
-Marketing                                    3
-
-Machine Learning                             3
-
-Music and Art                                3
-
-Economics                                    2
-
-History                                      2
-
-Personal Development                         1
-
-Probability and Statistics                   1
-
-Environmental Science and Sustainability     1
-
-Business Strategy                            1
+![b](https://user-images.githubusercontent.com/83331577/188500672-34f7dfef-edb9-42ee-b90a-20cbc906127a.PNG)
 
 *** %10.7 percent is Support and Operations course.
 
