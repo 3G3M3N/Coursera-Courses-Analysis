@@ -1,7 +1,7 @@
 # Coursera-Courses-Analysis
 **Hello, ı used this dataset from https://www.kaggle.com/datasets/anasmahmood000/coursera-courses-dataset.**
 
-We have 242 row.
+**We have 242 row.**
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
