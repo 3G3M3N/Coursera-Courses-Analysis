@@ -141,13 +141,7 @@ Languages:
 
 Levels:
 
-Beginner Level          141
-
-Na                      55
-
-Intermediate Level      41
-
-Advanced Level          5
+![level](https://user-images.githubusercontent.com/83331577/188500800-2e7ebe67-0bac-4af0-811a-f140f53e3630.PNG)
 
 *** %58.2 Beginner Level. 
 
