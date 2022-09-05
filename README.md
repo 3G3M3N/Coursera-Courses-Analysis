@@ -7,73 +7,7 @@ We have 242 row.
 
 Associated University Institution Companys: 
 
-Google                                                40
-
-Na                                                    19
-
-Google Cloud                                          17
-
-Coursera Project Network                              16
-
-IBM Skills Network                                    16
-
-University of Colorado System                          9
-
-Macquarie University                                   9
-
-University of Virginia                                 7
-
-The Hong Kong University of Science and Technology     7
-
-University of Michigan                                 7
-
-University of Colorado Boulder                         6
-
-University of Pennsylvania                             6
-
-Stanford University                                    5
-
-University of Minnesota                                5
-
-Duke University                                        5
-
-University of California San Diego                     4
-
-University of Arizona                                  4
-
-University of Toronto                                  3
-
-Georgia Institute of Technology                        3
-
-Meta                                                   3
-
-University of Alberta                                  3
-
-University of Maryland, College Park                   2
-
-University of Amsterdam                                2
-
-University of California, Irvine                       2
-
-University of California, Davis                        2
-
-University of Manchester                               2
-
-University System of Georgia                           2
-
-New York University                                    2
-
-Princeton University                                   2
-
-DeepLearning.AI                                        2
-
-(ISC)²                                                 2
-
-California Institute of the Arts                       2
-
-Amazon Web Services                                    2
-
-*** The rest are have just 1 course.
+![a](https://user-images.githubusercontent.com/83331577/188500548-45fae02d-9ad0-41fe-8d29-6c8c3e3c7b84.PNG)
 
 ** Google have 57 course. %23.5 percent is Google's course.
 
