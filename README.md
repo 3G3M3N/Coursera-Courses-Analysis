@@ -159,29 +159,9 @@ Enroll      6
 
 Ratings:
 
-*** Course haves so much ratings. 
+*** Courses haves so much ratings. 
 
-4.9    41
-
-4.8    78
-
-4.7    47
-
-4.6    40
-
-Na     21
-
-4.5     8
-
-4.3     2
-
-4.4     2
-
-4.2     1
-
-4.1     0
-
-4       2
+![rat](https://user-images.githubusercontent.com/83331577/188500865-55e2847e-377a-4a94-b5e8-96095b9d5971.PNG)
 
 *** Least rating is 4 
 
