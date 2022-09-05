@@ -143,7 +143,7 @@ Levels:
 
 ![level](https://user-images.githubusercontent.com/83331577/188500800-2e7ebe67-0bac-4af0-811a-f140f53e3630.PNG)
 
-*** %58.2 Beginner Level. 
+**%58.2 Beginner Level.** 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -151,18 +151,20 @@ Prices:
 
 ![price](https://user-images.githubusercontent.com/83331577/188500945-ffebec1b-7709-43b8-85ba-b361dd1ac136.PNG)
 
+**%89 are free.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Ratings:
+**Ratings:**
 
-*** Courses haves so much ratings. 
+**Courses haves so much ratings.** 
 
 ![rat](https://user-images.githubusercontent.com/83331577/188500865-55e2847e-377a-4a94-b5e8-96095b9d5971.PNG)
 
-*** Least rating is 4 
+**Least rating is 4** 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Thats All. 
+**Thats All.** 
 
-I hope you are loved it. Thx, have a good day buddy...
+**I hope you are loved it. Thx, have a good day buddy...**
