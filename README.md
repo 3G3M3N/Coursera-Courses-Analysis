@@ -131,19 +131,7 @@ Approx. 42 hours to complete            1
 
 Languages:
 
-English                     202
-
-Na                          20
-
-Indonesian                  10
-
-Spanish                     4
-
-Portuguese (Brazilian)      4
-
-Japanese, English           1
-
-Turkish                     1
+![lang](https://user-images.githubusercontent.com/83331577/188500741-576abd51-62fe-475f-84d0-b468667e84f5.PNG)
 
 *** %83.4 English language. 
 
