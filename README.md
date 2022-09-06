@@ -19,7 +19,7 @@
 
 ![b](https://user-images.githubusercontent.com/83331577/188500672-34f7dfef-edb9-42ee-b90a-20cbc906127a.PNG)
 
-*** %10.7 percent is Support and Operations course.
+**%10.7 percent is Support and Operations course.**
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
