@@ -35,7 +35,7 @@
 
 *** %83.4 English language. 
 
-*** Turkish course = Google: Proje Yönetiminin Temelleri	
+**Turkish course = Google: Proje Yönetiminin Temelleri**	
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
