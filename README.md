@@ -33,7 +33,7 @@
 
 ![lang](https://user-images.githubusercontent.com/83331577/188500741-576abd51-62fe-475f-84d0-b468667e84f5.PNG)
 
-*** %83.4 English language. 
+**%83.4 English language.**
 
 **Turkish course: Google: Proje Yönetiminin Temelleri**	
 
