@@ -9,9 +9,9 @@ Associated University Institution Companys:
 
 ![a](https://user-images.githubusercontent.com/83331577/188500548-45fae02d-9ad0-41fe-8d29-6c8c3e3c7b84.PNG)
 
-** Google have 57 course. %23.5 percent is Google's course.
+**Google have 57 course. %23.5 percent is Google's course.**
 
-** Na mean like 2 company or University course, 1 course was create from 2 company, University. 
+**Na mean like 2 company or University course, 1 course was create from 2 company, University.**
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
