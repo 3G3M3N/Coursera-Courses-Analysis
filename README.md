@@ -5,7 +5,7 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Associated University Institution Companys: 
+**Associated University Institution Companys:**
 
 ![a](https://user-images.githubusercontent.com/83331577/188500548-45fae02d-9ad0-41fe-8d29-6c8c3e3c7b84.PNG)
 
